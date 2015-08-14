@@ -1,11 +1,6 @@
 var searchData=
 [
-  ['operatortraits',['OperatorTraits',['../d3/dda/struct_catch_1_1_internal_1_1_operator_traits.html',1,'Catch::Internal']]],
-  ['operatortraits_3c_20isequalto_20_3e',['OperatorTraits&lt; IsEqualTo &gt;',['../d5/d0d/struct_catch_1_1_internal_1_1_operator_traits_3_01_is_equal_to_01_4.html',1,'Catch::Internal']]],
-  ['operatortraits_3c_20isgreaterthan_20_3e',['OperatorTraits&lt; IsGreaterThan &gt;',['../d4/d58/struct_catch_1_1_internal_1_1_operator_traits_3_01_is_greater_than_01_4.html',1,'Catch::Internal']]],
-  ['operatortraits_3c_20isgreaterthanorequalto_20_3e',['OperatorTraits&lt; IsGreaterThanOrEqualTo &gt;',['../d1/d8d/struct_catch_1_1_internal_1_1_operator_traits_3_01_is_greater_than_or_equal_to_01_4.html',1,'Catch::Internal']]],
-  ['operatortraits_3c_20islessthan_20_3e',['OperatorTraits&lt; IsLessThan &gt;',['../d1/d7d/struct_catch_1_1_internal_1_1_operator_traits_3_01_is_less_than_01_4.html',1,'Catch::Internal']]],
-  ['operatortraits_3c_20islessthanorequalto_20_3e',['OperatorTraits&lt; IsLessThanOrEqualTo &gt;',['../d7/df4/struct_catch_1_1_internal_1_1_operator_traits_3_01_is_less_than_or_equal_to_01_4.html',1,'Catch::Internal']]],
-  ['operatortraits_3c_20isnotequalto_20_3e',['OperatorTraits&lt; IsNotEqualTo &gt;',['../d9/d37/struct_catch_1_1_internal_1_1_operator_traits_3_01_is_not_equal_to_01_4.html',1,'Catch::Internal']]],
-  ['option',['Option',['../df/da2/class_catch_1_1_option.html',1,'Catch']]]
+  ['sha',['sha',['../d8/dba/struct_steam_vdf_parse_1_1_game_header.html#a09165aa83be7649ab247574b167ee4bd',1,'SteamVdfParse::GameHeader']]],
+  ['size',['size',['../d8/dba/struct_steam_vdf_parse_1_1_game_header.html#a513456912c7a339b10c51a32b82f777e',1,'SteamVdfParse::GameHeader']]],
+  ['steamvdfparse',['SteamVdfParse',['../db/d3c/namespace_steam_vdf_parse.html',1,'']]]
 ];
