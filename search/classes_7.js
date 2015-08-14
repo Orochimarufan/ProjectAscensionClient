@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['icontext',['IContext',['../d1/daf/struct_catch_1_1_i_context.html',1,'Catch']]],
+  ['iexceptiontranslator',['IExceptionTranslator',['../db/d6d/struct_catch_1_1_i_exception_translator.html',1,'Catch']]],
+  ['iexceptiontranslatorregistry',['IExceptionTranslatorRegistry',['../d4/dd5/struct_catch_1_1_i_exception_translator_registry.html',1,'Catch']]],
+  ['igenerator',['IGenerator',['../d4/d15/struct_catch_1_1_i_generator.html',1,'Catch']]],
+  ['igeneratorinfo',['IGeneratorInfo',['../d1/d78/struct_catch_1_1_i_generator_info.html',1,'Catch']]],
+  ['igeneratorsfortest',['IGeneratorsForTest',['../da/d20/struct_catch_1_1_i_generators_for_test.html',1,'Catch']]],
+  ['imutablecontext',['IMutableContext',['../dc/d78/struct_catch_1_1_i_mutable_context.html',1,'Catch']]],
+  ['imutableregistryhub',['IMutableRegistryHub',['../d8/d9e/struct_catch_1_1_i_mutable_registry_hub.html',1,'Catch']]],
+  ['iregistryhub',['IRegistryHub',['../d6/d0d/struct_catch_1_1_i_registry_hub.html',1,'Catch']]],
+  ['iresultcapture',['IResultCapture',['../db/d82/struct_catch_1_1_i_result_capture.html',1,'Catch']]],
+  ['irunner',['IRunner',['../db/dd9/struct_catch_1_1_i_runner.html',1,'Catch']]],
+  ['ishared',['IShared',['../d2/d4f/struct_catch_1_1_i_shared.html',1,'Catch']]],
+  ['isstreaminsertable',['IsStreamInsertable',['../d9/d1f/struct_catch_1_1_detail_1_1_is_stream_insertable.html',1,'Catch::Detail']]],
+  ['itagaliasregistry',['ITagAliasRegistry',['../d3/dc4/struct_catch_1_1_i_tag_alias_registry.html',1,'Catch']]],
+  ['itestcase',['ITestCase',['../d8/d1b/struct_catch_1_1_i_test_case.html',1,'Catch']]],
+  ['itestcaseregistry',['ITestCaseRegistry',['../d3/dd5/struct_catch_1_1_i_test_case_registry.html',1,'Catch']]]
+];

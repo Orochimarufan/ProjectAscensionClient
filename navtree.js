@@ -1,11 +1,34 @@
 var NAVTREE =
 [
-  [ "Project Ascension", "index.html", ]
+  [ "Project Ascension", "index.html", [
+    [ "Namespaces", null, [
+      [ "Namespace List", "namespaces.html", "namespaces" ],
+      [ "Namespace Members", "namespacemembers.html", [
+        [ "All", "namespacemembers.html", null ],
+        [ "Functions", "namespacemembers_func.html", null ]
+      ] ]
+    ] ],
+    [ "Classes", null, [
+      [ "Class List", "annotated.html", "annotated" ],
+      [ "Class Index", "classes.html", null ],
+      [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
+      [ "Class Members", "functions.html", [
+        [ "All", "functions.html", null ],
+        [ "Functions", "functions_func.html", null ],
+        [ "Variables", "functions_vars.html", null ]
+      ] ]
+    ] ],
+    [ "Files", null, [
+      [ "File List", "files.html", "files" ]
+    ] ]
+  ] ]
 ];
 
 var NAVTREEINDEX =
 [
-"index.html"
+".html",
+"d6/d37/class_catch_1_1_timer.html#a8500ef3481a9bf6ae81337972d9f95a3",
+"de/d8f/struct_catch_1_1_counts.html#aedf86fefe33938d132a6981171cd83e6"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
