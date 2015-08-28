@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['steamvdfparse',['SteamVdfParse',['../db/d3c/namespace_steam_vdf_parse.html',1,'']]]
+  ['entrypoint',['entryPoint',['../d6/dc4/namespaceentry_point.html',1,'']]]
 ];

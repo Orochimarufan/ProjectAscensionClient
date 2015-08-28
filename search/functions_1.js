@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['browser',['Browser',['../db/dc8/class_browser.html#a3724e6c46eac8fc72f783ecae45e3188',1,'Browser']]]
+  ['database',['Database',['../dc/d83/class_database.html#a4703c80e6969d33565ea340f768fdadf',1,'Database']]]
 ];

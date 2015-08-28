@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['tablabel',['TabLabel',['../d2/dda/class_tab_label.html',1,'']]]
+  ['sidebar',['Sidebar',['../df/d42/class_sidebar.html',1,'']]]
 ];

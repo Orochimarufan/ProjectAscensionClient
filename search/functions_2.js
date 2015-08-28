@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['database',['Database',['../dc/d83/class_database.html#a4703c80e6969d33565ea340f768fdadf',1,'Database']]]
+  ['enterevent',['enterEvent',['../d6/dc8/class_tab_widget.html#a22dd3a7f2e5bb36816502a7e8bfec9c8',1,'TabWidget']]]
 ];
