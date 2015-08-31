@@ -1,6 +1,8 @@
 var searchData=
 [
-  ['tabwidget',['TabWidget',['../d6/dc8/class_tab_widget.html',1,'TabWidget'],['../d6/dc8/class_tab_widget.html#a4d9761222b2af9b1f010fa9a1c06950d',1,'TabWidget::TabWidget()']]],
-  ['toggleactive',['toggleActive',['../d6/dc8/class_tab_widget.html#ac5ebab9aab84a8521cf8169b3f4599eb',1,'TabWidget']]],
-  ['toggleinactive',['toggleInactive',['../d6/dc8/class_tab_widget.html#a15f634c55c675b48c16b997eb7eb4b0f',1,'TabWidget']]]
+  ['sha',['sha',['../d8/dba/struct_steam_vdf_parse_1_1_game_header.html#a09165aa83be7649ab247574b167ee4bd',1,'SteamVdfParse::GameHeader']]],
+  ['sidebar',['Sidebar',['../df/d42/class_sidebar.html',1,'Sidebar'],['../df/d42/class_sidebar.html#a10391c9e70310c851112adbc5f01257a',1,'Sidebar::Sidebar()']]],
+  ['size',['size',['../d8/dba/struct_steam_vdf_parse_1_1_game_header.html#a513456912c7a339b10c51a32b82f777e',1,'SteamVdfParse::GameHeader']]],
+  ['sizehint',['sizeHint',['../df/d42/class_sidebar.html#ad0ad5d51c1d4469fcbec8c79d5992c94',1,'Sidebar']]],
+  ['steamvdfparse',['SteamVdfParse',['../db/d3c/namespace_steam_vdf_parse.html',1,'']]]
 ];

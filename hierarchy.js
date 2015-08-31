@@ -5,6 +5,7 @@ var hierarchy =
     [ "Game", "dd/db8/struct_game.html", null ],
     [ "SteamVdfParse::GameHeader", "d8/dba/struct_steam_vdf_parse_1_1_game_header.html", null ],
     [ "QWidget", null, [
+      [ "HomePage", "d0/d6b/class_home_page.html", null ],
       [ "Library", "d7/d55/class_library.html", null ],
       [ "MainPanel", "d1/d88/class_main_panel.html", [
         [ "UnixPanel", "de/d68/class_unix_panel.html", null ],

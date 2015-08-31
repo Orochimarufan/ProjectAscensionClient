@@ -6,6 +6,7 @@ var annotated =
     [ "BorderlessWindow", "d2/d4b/class_borderless_window.html", "d2/d4b/class_borderless_window" ],
     [ "Database", "dc/d83/class_database.html", "dc/d83/class_database" ],
     [ "Game", "dd/db8/struct_game.html", "dd/db8/struct_game" ],
+    [ "HomePage", "d0/d6b/class_home_page.html", "d0/d6b/class_home_page" ],
     [ "Library", "d7/d55/class_library.html", "d7/d55/class_library" ],
     [ "MainPanel", "d1/d88/class_main_panel.html", "d1/d88/class_main_panel" ],
     [ "Sidebar", "df/d42/class_sidebar.html", "df/d42/class_sidebar" ],

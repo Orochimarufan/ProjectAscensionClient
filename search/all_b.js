@@ -1,8 +1,9 @@
 var searchData=
 [
-  ['sha',['sha',['../d8/dba/struct_steam_vdf_parse_1_1_game_header.html#a09165aa83be7649ab247574b167ee4bd',1,'SteamVdfParse::GameHeader']]],
-  ['sidebar',['Sidebar',['../df/d42/class_sidebar.html',1,'Sidebar'],['../df/d42/class_sidebar.html#a10391c9e70310c851112adbc5f01257a',1,'Sidebar::Sidebar()']]],
-  ['size',['size',['../d8/dba/struct_steam_vdf_parse_1_1_game_header.html#a513456912c7a339b10c51a32b82f777e',1,'SteamVdfParse::GameHeader']]],
-  ['sizehint',['sizeHint',['../df/d42/class_sidebar.html#ad0ad5d51c1d4469fcbec8c79d5992c94',1,'Sidebar']]],
-  ['steamvdfparse',['SteamVdfParse',['../db/d3c/namespace_steam_vdf_parse.html',1,'']]]
+  ['read32_5fle',['read32_le',['../db/d3c/namespace_steam_vdf_parse.html#a746e9999430c9a5a4f18812d0b5a73bd',1,'SteamVdfParse']]],
+  ['read64_5fle',['read64_le',['../db/d3c/namespace_steam_vdf_parse.html#a24dbecb85a1f1abfb1d6bffbc68e85ef',1,'SteamVdfParse']]],
+  ['readstring',['readString',['../db/d3c/namespace_steam_vdf_parse.html#ac6029b65c0f5fa6e5b0a2ffc3a938faa',1,'SteamVdfParse']]],
+  ['removegamebyid',['removeGameById',['../dc/d83/class_database.html#af01f04fa637918a199045a4d8e67ebe5',1,'Database']]],
+  ['removegamebyname',['removeGameByName',['../dc/d83/class_database.html#a6523dbf229c96c88e13ef3945ad01f3b',1,'Database']]],
+  ['reset',['reset',['../dc/d83/class_database.html#aec44429a48d0b909cad5edee2539bccf',1,'Database']]]
 ];
