@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['leaveevent',['leaveEvent',['../d6/dc8/class_tab_widget.html#a1b0a65047f8fb9bf5c67b95c32ae4c0a',1,'TabWidget']]],
-  ['library',['Library',['../d7/d55/class_library.html#abfe3da1e38e18b7c9870b269ee45f188',1,'Library']]]
+  ['init',['init',['../dc/d83/class_database.html#a7c8d83dd74fe50ae3c261479235c702a',1,'Database::init()'],['../d1/d88/class_main_panel.html#afdae445397b557a1b938c5d6fcc79e01',1,'MainPanel::init()']]],
+  ['isexistant',['isExistant',['../dc/d83/class_database.html#afa153254f2655434292a41bacd998f03',1,'Database::isExistant(unsigned int id)'],['../dc/d83/class_database.html#af69e0d0dba94f6341f291c90b80ac12f',1,'Database::isExistant(QString name)']]]
 ];

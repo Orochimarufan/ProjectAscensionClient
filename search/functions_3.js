@@ -1,7 +1,4 @@
 var searchData=
 [
-  ['getgamebyid',['getGameById',['../dc/d83/class_database.html#af4fd31e1db1e8611cb916c3dc1013099',1,'Database']]],
-  ['getgamebyname',['getGameByName',['../dc/d83/class_database.html#ad8c60f1c8a4883a338d1d5183d40f90f',1,'Database']]],
-  ['getgamecount',['getGameCount',['../dc/d83/class_database.html#abf7a45c86e57a5277cf8249e9c3169db',1,'Database']]],
-  ['getgames',['getGames',['../dc/d83/class_database.html#a55b96f4463d01abb466546fa1058a44f',1,'Database']]]
+  ['enterevent',['enterEvent',['../d2/dfa/class_buddy_widget.html#a3779931e78f94335f069f47c483e28d3',1,'BuddyWidget::enterEvent()'],['../d6/dc8/class_tab_widget.html#a22dd3a7f2e5bb36816502a7e8bfec9c8',1,'TabWidget::enterEvent()']]]
 ];

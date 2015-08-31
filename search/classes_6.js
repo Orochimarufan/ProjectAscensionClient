@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['sidebar',['Sidebar',['../df/d42/class_sidebar.html',1,'']]]
+  ['mainpanel',['MainPanel',['../d1/d88/class_main_panel.html',1,'']]]
 ];

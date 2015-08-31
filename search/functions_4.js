@@ -1,5 +1,7 @@
 var searchData=
 [
-  ['init',['init',['../dc/d83/class_database.html#a7c8d83dd74fe50ae3c261479235c702a',1,'Database::init()'],['../d1/d88/class_main_panel.html#afdae445397b557a1b938c5d6fcc79e01',1,'MainPanel::init()']]],
-  ['isexistant',['isExistant',['../dc/d83/class_database.html#afa153254f2655434292a41bacd998f03',1,'Database::isExistant(unsigned int id)'],['../dc/d83/class_database.html#af69e0d0dba94f6341f291c90b80ac12f',1,'Database::isExistant(QString name)']]]
+  ['getgamebyid',['getGameById',['../dc/d83/class_database.html#af4fd31e1db1e8611cb916c3dc1013099',1,'Database']]],
+  ['getgamebyname',['getGameByName',['../dc/d83/class_database.html#ad8c60f1c8a4883a338d1d5183d40f90f',1,'Database']]],
+  ['getgamecount',['getGameCount',['../dc/d83/class_database.html#abf7a45c86e57a5277cf8249e9c3169db',1,'Database']]],
+  ['getgames',['getGames',['../dc/d83/class_database.html#a55b96f4463d01abb466546fa1058a44f',1,'Database']]]
 ];

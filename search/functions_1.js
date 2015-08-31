@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['database',['Database',['../dc/d83/class_database.html#a4703c80e6969d33565ea340f768fdadf',1,'Database']]]
+  ['buddywidget',['BuddyWidget',['../d2/dfa/class_buddy_widget.html#adbd623b008c65aa0b7a148fecc263710',1,'BuddyWidget']]]
 ];
