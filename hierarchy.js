@@ -8,7 +8,7 @@ var hierarchy =
       [ "BuddyList", "da/d73/class_buddy_list.html", null ],
       [ "BuddyWidget", "d2/dfa/class_buddy_widget.html", null ],
       [ "Community", "db/dee/class_community.html", null ],
-      [ "HomePage", "d0/d6b/class_home_page.html", null ],
+      [ "Homepage", "d3/dea/class_homepage.html", null ],
       [ "Library", "d7/d55/class_library.html", null ],
       [ "MainPanel", "d1/d88/class_main_panel.html", [
         [ "UnixPanel", "de/d68/class_unix_panel.html", null ],

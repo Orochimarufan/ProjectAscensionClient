@@ -6,7 +6,7 @@ var dir_74389ed8173ad57b461b9d623a1f3867 =
     [ "BuddyWidget.h", "dc/da3/_buddy_widget_8h_source.html", null ],
     [ "Community.h", "dd/dd0/_community_8h_source.html", null ],
     [ "Database.h", "d1/d94/_database_8h_source.html", null ],
-    [ "homepage.h", "de/d5c/homepage_8h_source.html", null ],
+    [ "Homepage.h", "d6/d91/_homepage_8h_source.html", null ],
     [ "Init.h", "d7/d4b/_init_8h_source.html", null ],
     [ "Library.h", "db/dfc/_library_8h_source.html", null ],
     [ "MainPanel.h", "d0/d84/_main_panel_8h_source.html", null ],

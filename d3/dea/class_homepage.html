@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.6"/>
-<title>Project Ascension: /home/runner/Client/Source/homepage.h Source File</title>
+<title>Project Ascension: Homepage Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -47,8 +47,8 @@ var searchBox = new SearchBox("searchBox", "../../search",false,'Search');
     <ul class="tablist">
       <li><a href="../../index.html"><span>Main&#160;Page</span></a></li>
       <li><a href="../../namespaces.html"><span>Namespaces</span></a></li>
-      <li><a href="../../annotated.html"><span>Classes</span></a></li>
-      <li class="current"><a href="../../files.html"><span>Files</span></a></li>
+      <li class="current"><a href="../../annotated.html"><span>Classes</span></a></li>
+      <li><a href="../../files.html"><span>Files</span></a></li>
       <li>
         <div id="MSearchBox" class="MSearchBoxInactive">
         <span class="left">
@@ -69,7 +69,10 @@ var searchBox = new SearchBox("searchBox", "../../search",false,'Search');
   </div>
   <div id="navrow2" class="tabs2">
     <ul class="tablist">
-      <li><a href="../../files.html"><span>File&#160;List</span></a></li>
+      <li><a href="../../annotated.html"><span>Class&#160;List</span></a></li>
+      <li><a href="../../classes.html"><span>Class&#160;Index</span></a></li>
+      <li><a href="../../inherits.html"><span>Class&#160;Hierarchy</span></a></li>
+      <li><a href="../../functions.html"><span>Class&#160;Members</span></a></li>
     </ul>
   </div>
 </div><!-- top -->
@@ -84,7 +87,7 @@ var searchBox = new SearchBox("searchBox", "../../search",false,'Search');
   </div>
 </div>
 <script type="text/javascript">
-$(document).ready(function(){initNavTree('de/d5c/homepage_8h_source.html','../../');});
+$(document).ready(function(){initNavTree('d3/dea/class_homepage.html','../../');});
 </script>
 <div id="doc-content">
 <!-- window showing the filter options -->
@@ -102,41 +105,45 @@ $(document).ready(function(){initNavTree('de/d5c/homepage_8h_source.html','../..
 </div>
 
 <div class="header">
+  <div class="summary">
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="../../dc/dd4/class_homepage-members.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">homepage.h</div>  </div>
+<div class="title">Homepage Class Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="preprocessor">#ifndef HOMEPAGE_H</span></div>
-<div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;<span class="preprocessor"></span><span class="preprocessor">#define HOMEPAGE_H</span></div>
-<div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="preprocessor"></span></div>
-<div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;<span class="preprocessor">#include &lt;QWidget&gt;</span></div>
-<div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;<span class="preprocessor">#include &lt;QSettings&gt;</span></div>
-<div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;</div>
-<div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;<span class="keyword">namespace </span>Ui {</div>
-<div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;<span class="keyword">class </span><a class="code" href="../../d0/d6b/class_home_page.html">HomePage</a>;</div>
-<div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;}</div>
-<div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;</div>
-<div class="line"><a name="l00011"></a><span class="lineno"><a class="line" href="../../d0/d6b/class_home_page.html">   11</a></span>&#160;<span class="keyword">class </span><a class="code" href="../../d0/d6b/class_home_page.html">HomePage</a> : <span class="keyword">public</span> QWidget</div>
-<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;{</div>
-<div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;    Q_OBJECT</div>
-<div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;</div>
-<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;<span class="keyword">public</span>:</div>
-<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;    <a class="code" href="../../d0/d6b/class_home_page.html">HomePage</a>(QSettings* p, QWidget* parent = 0);</div>
-<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;    ~<a class="code" href="../../d0/d6b/class_home_page.html">HomePage</a>();</div>
-<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;</div>
-<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;<span class="keyword">private</span>:</div>
-<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;    Ui::HomePage *ui;</div>
-<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;};</div>
-<div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;</div>
-<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;<span class="preprocessor">#endif // HOMEPAGE_H</span></div>
-<div class="ttc" id="class_home_page_html"><div class="ttname"><a href="../../d0/d6b/class_home_page.html">HomePage</a></div><div class="ttdef"><b>Definition:</b> homepage.h:11</div></div>
-</div><!-- fragment --></div><!-- contents -->
+<div class="dynheader">
+Inheritance diagram for Homepage:</div>
+<div class="dyncontent">
+<div class="center"><img src="../../da/d6d/class_homepage__inherit__graph.png" border="0" usemap="#_homepage_inherit__map" alt="Inheritance graph"/></div>
+<map name="_homepage_inherit__map" id="_homepage_inherit__map">
+</map>
+<center><span class="legend">[<a target="top" href="../../graph_legend.html">legend</a>]</span></center></div>
+<div class="dynheader">
+Collaboration diagram for Homepage:</div>
+<div class="dyncontent">
+<div class="center"><img src="../../dd/d4d/class_homepage__coll__graph.png" border="0" usemap="#_homepage_coll__map" alt="Collaboration graph"/></div>
+<map name="_homepage_coll__map" id="_homepage_coll__map">
+</map>
+<center><span class="legend">[<a target="top" href="../../graph_legend.html">legend</a>]</span></center></div>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a49e7e34d9c90f9e647d99003a105f7e4"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a49e7e34d9c90f9e647d99003a105f7e4"></a>
+&#160;</td><td class="memItemRight" valign="bottom"><b>Homepage</b> (QSettings *p, QWidget *parent=0)</td></tr>
+<tr class="separator:a49e7e34d9c90f9e647d99003a105f7e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<hr/>The documentation for this class was generated from the following files:<ul>
+<li>/home/runner/Client/Source/<a class="el" href="../../d6/d91/_homepage_8h_source.html">Homepage.h</a></li>
+<li>/home/runner/Client/Source/Homepage.cpp</li>
+</ul>
+</div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_74389ed8173ad57b461b9d623a1f3867.html">Source</a></li><li class="navelem"><b>homepage.h</b></li>
-    <li class="footer">Generated on Tue Sep 1 2015 03:36:16 for Project Ascension by
+    <li class="navelem"><a class="el" href="../../d3/dea/class_homepage.html">Homepage</a></li>
+    <li class="footer">Generated on Tue Sep 1 2015 22:14:03 for Project Ascension by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>
